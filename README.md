@@ -1,6 +1,6 @@
 # Project title: Game: Find The Hidden Objects
 ## Motivation
-This project was built for my Software Engineering program at Per Scholas. 
+This project was built and submit as Mod 1: The DOM Based Game for my Software Engineering program at Per Scholas. 
 ## Screenshots
 ![welcomePageScreenshot](https://user-images.githubusercontent.com/121985979/227433520-6093119b-dd75-42b2-aeee-7b6bc374bf52.png)
 ![gamePageScreenshot](https://user-images.githubusercontent.com/121985979/227433519-e6004e3c-a8f2-447d-9ffd-93cc1cb1135c.png)
