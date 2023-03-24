@@ -19,7 +19,7 @@ let foundAll = document.querySelector("#if-found-all")
 let clicked = [11, 12];
 
 for( let objBtn of hiddenBtns){ 
-  countdown(1);
+  countdown(5);
 
    objBtn.addEventListener(
     "click",
