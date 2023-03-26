@@ -3,11 +3,10 @@
   padding: 0;
 }
 
-.welcome-page{
+.welcome-page {
   display: flex;
-  background: url(bg.jpg);  
+  background: url(bg.jpg);
 }
-
 
 .welcoming {
   position: absolute;
@@ -15,10 +14,9 @@
   width: 100%;
   left: -2%;
   text-align: center;
-  
 }
 
-.welcoming > h1{
+.welcoming > h1 {
   font-size: 160pt;
   font-family: cursive;
   color: white;
@@ -65,7 +63,7 @@ a {
 }
 
 .game-page {
-  background: url(bg.jpg); 
+  background: url(bg.jpg);
   display: flex;
 }
 .bg-img {
@@ -101,9 +99,9 @@ a {
 
 #eggs-hidden {
   right: 23%;
-    width: 6%;
-    height: 5%;
-    top: 40.5%;
+  width: 6%;
+  height: 5%;
+  top: 40.5%;
 }
 
 #hedgehog-hidden {
@@ -174,7 +172,6 @@ a {
 }
 
 #eggs-found {
-
   right: 1.2%;
   width: 6%;
   height: 10%;
@@ -283,12 +280,12 @@ a {
   transform: rotate(0.06turn);
   color: transparent;
 }
-.end-slide{
+.end-slide {
   font-family: cursive;
   display: none;
 }
 
-.end-content{
+.end-content {
   position: absolute;
   background: url(bg.jpg);
   background-size: 101%;
@@ -353,4 +350,3 @@ a {
   font-size: 67pt;
   font-weight: bold;
 }
-
