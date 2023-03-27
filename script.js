@@ -18,7 +18,10 @@ let foundAll = document.querySelector("#if-found-all");
 
 let clicked = [11, 12];
 
+alert("Please set your browser's zoom to 33% to enjoy the game");
+
 for (let objBtn of hiddenBtns) {
+  
   countdown(10);
 
   objBtn.addEventListener(
