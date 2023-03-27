@@ -4,20 +4,9 @@
 }
 
 .welcome-page {
-  /* display: flex;
-  */
-  /* position: relative;
-    height: 100%;
-    width: 100%; */
-
-    background: url(bg.jpg);
-    background-size: cover;
+  background: url(bg.jpg);
+  background-size: cover;
 }
-/* .welcome-bg{
-  position: absolute;
-  height: auto;
-  width: auto;
-} */
 
 .welcome-slide {
   height: 90%;
@@ -31,7 +20,7 @@
   position: absolute;
   width: 100%;
   top: 6%;
-  left: 13%;
+  left: 17%;
   font-size: 49pt;
   font-family: cursive;
   color: white;
@@ -41,8 +30,8 @@ form {
   position: absolute;
   width: 59%;
   height: 50%;
-  left: 18%;
-  top: 30%;
+  left: 24%;
+  top: 31%;
 }
 
 label{
@@ -54,7 +43,7 @@ label{
 
 input {
   position: absolute;
-  width: 36%;
+  width: 38%;
   height: 13%;
   top: 33%;
   left: 24.5%;
